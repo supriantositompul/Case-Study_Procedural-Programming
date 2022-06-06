@@ -1,5 +1,5 @@
 // 12S20010 - Suprianto Dharma Sitompul
-// 12S20045 - Christine Hutagaol
+
 
 /* strtok example */
 #include <stdio.h>
