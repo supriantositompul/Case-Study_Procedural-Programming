@@ -1,5 +1,5 @@
-# Mid Exam
-Pada ujian tengah semester ini anda akan diminta untuk mengaplikasikan berbagai pengetahuan yang sudah anda peroleh di sepanjang paruh semester ini. Semua materi akan tercakup oleh sebab itu, kerja sama yang baik antaranggota pair sangat penting demi mencapai hasil maksimal.
+# [Pemrograman Prosedural] - Programming Taks
+Pada case ini anda diminta untuk mengaplikasikan berbagai pengetahuan yang sudah anda peroleh di sepanjang paruh semester ini. Semua materi akan tercakup oleh sebab itu, kerja sama yang baik antaranggota pair sangat penting demi mencapai hasil maksimal.
 
 ## Grading Components
 Ucok dan Butet adalah mahasiswa yang baik, mereka tergabung dalam satu pair ketika mengerjakan tugas pemrograman. Di setiap akhir semester, untuk setiap mata kuliah, Ucok dan Butet akan mendapat ```nilai akhir``` yang selanjutnya akan dikonversi menjadi nilai huruf, misal ```A```, ```AB```, ```B```, ```BC```, dst.
@@ -78,5 +78,3 @@ failed
 1. m01_01.c
 2. changelog.txt
 
-## How to submit?
-Please see https://youtu.be/g0BQ195-aWo
